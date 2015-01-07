@@ -31,7 +31,7 @@
 		    if (s.hasNext()) {
 		    	ipval =s.next();
     }  %>
-    <b>Instance Private Address:::test12:</b><%=ipval %>
+    <b>Instance Private Address::</b><%=ipval %>
 	</h1>
 	<openmrs:hasPrivilege privilege="View Concepts">
 		<li id="dictionaryNavLink">
